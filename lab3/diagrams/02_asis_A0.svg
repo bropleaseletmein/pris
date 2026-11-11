@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2190" height="1235" viewBox="0 0 2190 1235">
+<defs><marker id="arrow" viewBox="0 0 12 10" refX="11" refY="5" markerWidth="9" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 12 5 L 0 10 z" fill="#000000"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<rect x="295" y="210" width="280" height="140" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+<rect x="655" y="395" width="280" height="140" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+<rect x="1015" y="580" width="280" height="140" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+<rect x="1375" y="765" width="280" height="140" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+<rect x="1735" y="950" width="280" height="140" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+<polyline points="2135,20 2135,145 435,145" fill="none" stroke="#000000" stroke-width="2.2"/>
+<polyline points="435.0,145 435.0,210" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="795.0,145 795.0,395" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1155.0,145 1155.0,580" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1515.0,145 1515.0,765" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1875.0,145 1875.0,950" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="20,285 295,285" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="20,495 655,495" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="20,615 1015,615" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="20,660 1015,660" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="20,700 1015,700" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="20,1050 1735,1050" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="20,1080 1735,1080" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="575,285 605,285 605,430 655,430" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="605,365 595,365 595,825 1375,825" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="935,500 970,500 970,985 1735,985" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="2015,1020 2070,1020 2070,340 830,340 830,395" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1295,660 1320,660 1320,870 1375,870" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="935,450 2170,450" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1295,615 2170,615" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1295,695 2170,695" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1655,845 2170,845" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="2135,1215 2135,1125 393,1125" fill="none" stroke="#000000" stroke-width="2.2"/>
+<polyline points="393.0,1125 393.0,350" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="753.0,1125 753.0,535" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1113.0,1125 1113.0,720" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1473.0,1125 1473.0,905" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1833.0,1125 1833.0,1090" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<circle cx="435" cy="145" r="4" fill="#000000"/>
+<circle cx="605" cy="365" r="4" fill="#000000"/>
+<circle cx="393" cy="1125" r="4" fill="#000000"/>
+<text x="435.0" y="267.17" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">Подготовить и</text>
+<text x="435.0" y="293.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">разместить материалы</text>
+<text x="561" y="338.0" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#000000" text-anchor="end">1</text>
+<text x="795.0" y="439.255" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">Найти и получить</text>
+<text x="795.0" y="465.085" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">электронные</text>
+<text x="795.0" y="490.91499999999996" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">материалы</text>
+<text x="921" y="523.0" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#000000" text-anchor="end">2</text>
+<text x="1155.0" y="624.255" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">Учесть выдачу и</text>
+<text x="1155.0" y="650.085" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">возврат бумажных</text>
+<text x="1155.0" y="675.915" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">книг</text>
+<text x="1281" y="708.0" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#000000" text-anchor="end">3</text>
+<text x="1515.0" y="796.34" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">Проверить</text>
+<text x="1515.0" y="822.1700000000001" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">обеспеченность</text>
+<text x="1515.0" y="848.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">дисциплин</text>
+<text x="1515.0" y="873.83" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">литературой</text>
+<text x="1641" y="893.0" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#000000" text-anchor="end">4</text>
+<text x="1875.0" y="1007.1700000000001" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">Вручную согласовать</text>
+<text x="1875.0" y="1033.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">доступ к материалам</text>
+<text x="2001" y="1078.0" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#000000" text-anchor="end">5</text>
+<text x="48" y="59.0" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#000000" text-anchor="start">C1 Регламенты | C2 РПД и обеспеченность | C3 Доступ, авторские права, ПД | C4 Правила книговыдачи</text>
+<rect x="443.0" y="174" width="61.01367187500001" height="24.14" fill="white"/>
+<text x="448.0" y="193.0" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#000000" text-anchor="start">C1-C3</text>
+<rect x="803.0" y="359" width="65.021484375" height="24.14" fill="white"/>
+<text x="808.0" y="378.0" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#000000" text-anchor="start">C1, C3</text>
+<rect x="1163.0" y="544" width="98.03320312500001" height="24.14" fill="white"/>
+<text x="1168.0" y="563.0" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#000000" text-anchor="start">C1, C3, C4</text>
+<rect x="1523.0" y="729" width="65.021484375" height="24.14" fill="white"/>
+<text x="1528.0" y="748.0" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#000000" text-anchor="start">C1, C2</text>
+<rect x="1883.0" y="914" width="65.021484375" height="24.14" fill="white"/>
+<text x="1888.0" y="933.0" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#000000" text-anchor="start">C1, C3</text>
+<rect x="38" y="226" width="144.322265625" height="26.6" fill="white"/>
+<text x="43" y="247.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">I1. Материалы</text>
+<rect x="38" y="448" width="280.748046875" height="26.6" fill="white"/>
+<text x="43" y="469.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">I2 (поиск). Запрос материала</text>
+<rect x="38" y="571" width="416.353515625" height="26.6" fill="white"/>
+<text x="43" y="592.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">I2 (книговыдача). Запрос выдачи / возврата</text>
+<rect x="38" y="624" width="289.927734375" height="26.6" fill="white"/>
+<text x="43" y="645.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">I3. Сведения о пользователях</text>
+<rect x="38" y="663" width="399.107421875" height="26.6" fill="white"/>
+<text x="43" y="684.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">I4. Экземпляры книг, в т.ч. возвращённые</text>
+<rect x="38" y="1010" width="421.138671875" height="26.6" fill="white"/>
+<text x="43" y="1031.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">I2 (доступ). Прямое обращение за доступом</text>
+<rect x="38" y="1085" width="429.771484375" height="26.6" fill="white"/>
+<text x="43" y="1106.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">I3. Списки групп и сведения о пользователях</text>
+<rect x="613" y="219" width="264.205078125" height="51.2" fill="white"/>
+<text x="618" y="240.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">F1. Размещённые файлы и</text>
+<text x="618" y="264.6" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">сведения о них</text>
+<rect x="983" y="789" width="269.087890625" height="26.6" fill="white"/>
+<text x="988" y="810.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">F1. Сведения о материалах</text>
+<rect x="1023" y="946" width="272.69140625" height="26.6" fill="white"/>
+<text x="1028" y="967.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">F2. Обращение за доступом</text>
+<rect x="1003" y="301" width="224.56640625" height="26.6" fill="white"/>
+<text x="1008" y="322.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">F3. Решение о доступе</text>
+<rect x="1218" y="732" width="216.197265625" height="26.6" fill="white"/>
+<text x="1223" y="753.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">F4. Наличие и выдача</text>
+<rect x="1458" y="409" width="432.06640625" height="26.6" fill="white"/>
+<text x="1463" y="430.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">O1. Электронный материал / ответ на запрос</text>
+<rect x="1578" y="574" width="301.685546875" height="26.6" fill="white"/>
+<text x="1583" y="595.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">O2. Выданные бумажные книги</text>
+<rect x="1578" y="654" width="311.099609375" height="26.6" fill="white"/>
+<text x="1583" y="675.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">O3. Записи о выдаче и возврате</text>
+<rect x="1683" y="776" width="374.810546875" height="26.6" fill="white"/>
+<text x="1688" y="797.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">O4. Сводка обеспеченности и пробелы</text>
+<text x="48" y="1176.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="start">M1 Преподаватели, студенты | M2 Библиотекарь, заведующий | M3 ПК, почта, чаты, папки | M4 Журнал, таблицы</text>
+<rect x="397.0" y="356" width="60.95458984375001" height="22.91" fill="white"/>
+<text x="402.0" y="374.0" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#000000" text-anchor="start">M1,M3</text>
+<rect x="757.0" y="541" width="60.95458984375001" height="22.91" fill="white"/>
+<text x="762.0" y="559.0" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#000000" text-anchor="start">M1,M3</text>
+<rect x="1117.0" y="726" width="61.89257812500001" height="22.91" fill="white"/>
+<text x="1122.0" y="744.0" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#000000" text-anchor="start">M1-M4</text>
+<rect x="1477.0" y="911" width="61.89257812500001" height="22.91" fill="white"/>
+<text x="1482.0" y="929.0" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#000000" text-anchor="start">M1-M4</text>
+<rect x="1837.0" y="1096" width="61.89257812500001" height="22.91" fill="white"/>
+<text x="1842.0" y="1114.0" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#000000" text-anchor="start">M1-M3</text>
+</svg>

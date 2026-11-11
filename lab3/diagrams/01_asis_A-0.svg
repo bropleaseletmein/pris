@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2190" height="982" viewBox="0 0 2190 982">
+<defs><marker id="arrow" viewBox="0 0 12 10" refX="11" refY="5" markerWidth="9" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 12 5 L 0 10 z" fill="#000000"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<rect x="695" y="320" width="800" height="330" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+<polyline points="20,370 695,370" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="20,450 695,450" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="20,530 695,530" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="20,610 695,610" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1495,370 2170,370" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1495,450 2170,450" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1495,530 2170,530" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1495,610 2170,610" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="435,160 435,205 765,205 765,320" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="875,160 875,225 965,225 965,320" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1315,160 1315,245 1165,245 1165,320" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1755,160 1755,265 1385,265 1385,320" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="435,880 435,800 775,800 775,650" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="875,880 875,780 975,780 975,650" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1315,880 1315,760 1185,760 1185,650" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1755,880 1755,740 1405,740 1405,650" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="1095.0" y="471.48" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#000000" text-anchor="middle">Обеспечить студентов и преподавателей</text>
+<text x="1095.0" y="501.0" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#000000" text-anchor="middle">учебно-методическими материалами кафедры</text>
+<text x="1481" y="638.0" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#000000" text-anchor="end">0</text>
+<rect x="48" y="313" width="431.255859375" height="26.6" fill="white"/>
+<text x="53" y="334.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">I1. Электронные материалы преподавателей</text>
+<rect x="48" y="393" width="263.3359375" height="26.6" fill="white"/>
+<text x="53" y="414.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">I2. Запросы пользователей</text>
+<rect x="48" y="473" width="429.771484375" height="26.6" fill="white"/>
+<text x="53" y="494.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">I3. Списки групп и сведения о пользователях</text>
+<rect x="48" y="553" width="499.791015625" height="26.6" fill="white"/>
+<text x="53" y="574.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">I4. Экземпляры бумажных книг, в т.ч. возвращённые</text>
+<rect x="1563" y="313" width="432.06640625" height="26.6" fill="white"/>
+<text x="1568" y="334.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">O1. Электронный материал / ответ на запрос</text>
+<rect x="1563" y="393" width="301.685546875" height="26.6" fill="white"/>
+<text x="1568" y="414.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">O2. Выданные бумажные книги</text>
+<rect x="1563" y="473" width="311.099609375" height="26.6" fill="white"/>
+<text x="1568" y="494.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">O3. Записи о выдаче и возврате</text>
+<rect x="1563" y="553" width="497.203125" height="26.6" fill="white"/>
+<text x="1568" y="574.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">O4. Сводка обеспеченности и выявленные пробелы</text>
+<text x="435.0" y="41.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">C1. Регламенты кафедры</text>
+<text x="875.0" y="41.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">C2. РПД и требования к</text>
+<text x="875.0" y="66.83" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">обеспеченности</text>
+<text x="1315.0" y="41.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">C3. Правила доступа, авторские</text>
+<text x="1315.0" y="66.83" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">права и требования к ПД</text>
+<text x="1755.0" y="41.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">C4. Правила выдачи и сроки</text>
+<text x="1755.0" y="66.83" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">возврата</text>
+<text x="435.0" y="931.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">M1. Преподаватели и студенты</text>
+<text x="875.0" y="931.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">M2. Библиотекарь и заведующий</text>
+<text x="875.0" y="956.83" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">кафедрой</text>
+<text x="1315.0" y="931.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">M3. ПК, почта, чаты, локальные и</text>
+<text x="1315.0" y="956.83" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">общие папки</text>
+<text x="1755.0" y="931.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">M4. Бумажный журнал, офисные</text>
+<text x="1755.0" y="956.83" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">таблицы</text>
+</svg>

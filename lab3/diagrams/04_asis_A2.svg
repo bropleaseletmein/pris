@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2190" height="1235" viewBox="0 0 2190 1235">
+<defs><marker id="arrow" viewBox="0 0 12 10" refX="11" refY="5" markerWidth="9" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 12 5 L 0 10 z" fill="#000000"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<rect x="335" y="255" width="320" height="155" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+<rect x="760" y="435" width="320" height="155" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+<rect x="1185" y="615" width="320" height="155" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+<rect x="1610" y="795" width="320" height="155" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+<polyline points="2135,20 2135,160 495.0,160" fill="none" stroke="#000000" stroke-width="2.2"/>
+<polyline points="495.0,160 495.0,255" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="920.0,160 920.0,435" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1345.0,160 1345.0,615" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1770.0,160 1770.0,795" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="20,340 335,340" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="20,555 760,555" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1930,880 2170,880" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1505,695 2170,695" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="655,340.25 700,340.25 700,520.25 760,520.25" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1080,520.25 1125,520.25 1125,700.25 1185,700.25" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1505,700.25 1550,700.25 1550,880.25 1610,880.25" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="2135,1215 2135,1110 435,1110" fill="none" stroke="#000000" stroke-width="2.2"/>
+<polyline points="447.0,1110 447.0,410" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="872.0,1110 872.0,590" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1297.0,1110 1297.0,770" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1722.0,1110 1722.0,950" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="495.0" y="319.21" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#000000" text-anchor="middle">Уточнить дисциплину и</text>
+<text x="495.0" y="347.5" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#000000" text-anchor="middle">нужный материал</text>
+<text x="641" y="398.0" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#000000" text-anchor="end">1</text>
+<text x="920.0" y="499.21000000000004" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#000000" text-anchor="middle">Просмотреть папки и</text>
+<text x="920.0" y="527.5" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#000000" text-anchor="middle">переписку</text>
+<text x="1066" y="578.0" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#000000" text-anchor="end">2</text>
+<text x="1345.0" y="679.21" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#000000" text-anchor="middle">Уточнить доступ и</text>
+<text x="1345.0" y="707.5" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#000000" text-anchor="middle">актуальность файла</text>
+<text x="1491" y="758.0" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#000000" text-anchor="end">3</text>
+<text x="1770.0" y="859.21" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#000000" text-anchor="middle">Получить файл или</text>
+<text x="1770.0" y="887.5" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#000000" text-anchor="middle">ответ на запрос</text>
+<text x="1916" y="938.0" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#000000" text-anchor="end">4</text>
+<text x="68" y="61.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="start">C1. Регламенты кафедры | C2. Правила доступа, авторские права, ПД | C3. Решение о доступе (из A5)</text>
+<rect x="503.0" y="218" width="32.009765625" height="24.14" fill="white"/>
+<text x="508.0" y="237.0" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#000000" text-anchor="start">C1</text>
+<rect x="928.0" y="398" width="32.009765625" height="24.14" fill="white"/>
+<text x="933.0" y="417.0" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#000000" text-anchor="start">C1</text>
+<rect x="1353.0" y="578" width="65.021484375" height="24.14" fill="white"/>
+<text x="1358.0" y="597.0" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#000000" text-anchor="start">C2, C3</text>
+<rect x="1778.0" y="758" width="65.021484375" height="24.14" fill="white"/>
+<text x="1783.0" y="777.0" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#000000" text-anchor="start">C1, C2</text>
+<rect x="41" y="305.4" width="226.59765625" height="26.6" fill="white"/>
+<text x="46" y="326.4" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">I1. Запрос на материал</text>
+<rect x="41" y="520.4" width="405.142578125" height="26.6" fill="white"/>
+<text x="46" y="541.4" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">I2. Размещённые файлы и сведения о них</text>
+<rect x="1973" y="795.2" width="171.75390625" height="75.80000000000001" fill="white"/>
+<text x="1978" y="816.2" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">O1. Электронный</text>
+<text x="1978" y="840.8000000000001" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">материал / ответ</text>
+<text x="1978" y="865.4000000000001" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">на запрос</text>
+<rect x="1563" y="724" width="333.677734375" height="26.6" fill="white"/>
+<text x="1568" y="745.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">O2. Обращение за доступом (к A5)</text>
+<rect x="663" y="234.25" width="165.25" height="26.6" fill="white"/>
+<text x="668" y="255.25" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">Критерии поиска</text>
+<rect x="1088" y="414.25" width="321.12890625" height="51.2" fill="white"/>
+<text x="1093" y="435.25" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">Найденные ссылки и кандидаты /</text>
+<text x="1093" y="459.85" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">отсутствие файла</text>
+<rect x="1513" y="594.25" width="352.7890625" height="51.2" fill="white"/>
+<text x="1518" y="615.25" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">Проверенный файл / причина отказа</text>
+<text x="1518" y="639.85" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">или отсутствия</text>
+<text x="63" y="1176.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="start">M1. Студент и преподаватель | M2. ПК, почта, чаты, папки</text>
+<rect x="453.0" y="417" width="69.01171875" height="24.14" fill="white"/>
+<text x="458.0" y="436.0" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#000000" text-anchor="start">M1, M2</text>
+<rect x="878.0" y="597" width="69.01171875" height="24.14" fill="white"/>
+<text x="883.0" y="616.0" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#000000" text-anchor="start">M1, M2</text>
+<rect x="1303.0" y="777" width="69.01171875" height="24.14" fill="white"/>
+<text x="1308.0" y="796.0" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#000000" text-anchor="start">M1, M2</text>
+<rect x="1728.0" y="957" width="69.01171875" height="24.14" fill="white"/>
+<text x="1733.0" y="976.0" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#000000" text-anchor="start">M1, M2</text>
+</svg>

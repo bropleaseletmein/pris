@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2190" height="1235" viewBox="0 0 2190 1235">
+<defs><marker id="arrow" viewBox="0 0 12 10" refX="11" refY="5" markerWidth="9" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 12 5 L 0 10 z" fill="#000000"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<rect x="295" y="210" width="280" height="140" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+<rect x="645" y="390" width="280" height="140" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+<rect x="995" y="570" width="280" height="140" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+<rect x="1345" y="750" width="280" height="140" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+<rect x="1695" y="930" width="280" height="140" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+<polyline points="2135,20 2135,125 435.0,125" fill="none" stroke="#000000" stroke-width="2.2"/>
+<polyline points="435.0,125 435.0,210" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="785.0,125 785.0,390" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1135.0,125 1135.0,570" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1485.0,125 1485.0,750" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1835.0,125 1835.0,930" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="20,295 295,295" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="20,440 645,440" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="20,490 645,490" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="575,290 605,290 605,360 795,360 795,390" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="925,455 965,455 965,640 995,640" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1275,625 1315,625 1315,800 1345,800" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1275,685 1295,685 1295,995 1695,995" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="925,510 955,510 955,1055 1695,1055" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1625,785 2170,785" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1625,845 2170,845" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1975,1020 2170,1020" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="2135,1215 2135,1125 393.0,1125" fill="none" stroke="#000000" stroke-width="2.2"/>
+<polyline points="393.0,1125 393.0,350" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="743.0,1125 743.0,530" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1093.0,1125 1093.0,710" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1443.0,1125 1443.0,890" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1793.0,1125 1793.0,1070" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="435.0" y="267.17" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">Выполнить вход</text>
+<text x="435.0" y="293.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">студента через ITMO ID</text>
+<text x="561" y="338.0" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#000000" text-anchor="end">1</text>
+<text x="785.0" y="434.255" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">Сформировать и</text>
+<text x="785.0" y="460.085" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">выполнить поисковый</text>
+<text x="785.0" y="485.91499999999996" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">запрос</text>
+<text x="911" y="518.0" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#000000" text-anchor="end">2</text>
+<text x="1135.0" y="627.17" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">Проверить права</text>
+<text x="1135.0" y="653.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">доступа к материалу</text>
+<text x="1261" y="698.0" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#000000" text-anchor="end">3</text>
+<text x="1485.0" y="807.17" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">Выдать файл и</text>
+<text x="1485.0" y="833.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">записать статистику</text>
+<text x="1611" y="878.0" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#000000" text-anchor="end">4</text>
+<text x="1835.0" y="974.2550000000001" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">Сообщить об отказе</text>
+<text x="1835.0" y="1000.0850000000002" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">или отсутствии</text>
+<text x="1835.0" y="1025.9150000000002" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">материала</text>
+<text x="1961" y="1058.0" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#000000" text-anchor="end">5</text>
+<text x="48" y="55.0" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#000000" text-anchor="start">C1. Регламенты кафедры | C2. Доступ, авторские права, 152-ФЗ | C3. Справочники и права из A5</text>
+<rect x="442.0" y="174" width="65.021484375" height="24.14" fill="white"/>
+<text x="447.0" y="193.0" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#000000" text-anchor="start">C1, C2</text>
+<rect x="792.0" y="354" width="65.021484375" height="24.14" fill="white"/>
+<text x="797.0" y="373.0" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#000000" text-anchor="start">C1, C3</text>
+<rect x="1142.0" y="534" width="65.021484375" height="24.14" fill="white"/>
+<text x="1147.0" y="553.0" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#000000" text-anchor="start">C2, C3</text>
+<rect x="1492.0" y="714" width="65.021484375" height="24.14" fill="white"/>
+<text x="1497.0" y="733.0" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#000000" text-anchor="start">C1, C2</text>
+<rect x="1842.0" y="894" width="32.009765625" height="24.14" fill="white"/>
+<text x="1847.0" y="913.0" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#000000" text-anchor="start">C2</text>
+<rect x="38" y="227" width="236.744140625" height="51.2" fill="white"/>
+<text x="43" y="248.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">I3. Данные</text>
+<text x="43" y="272.6" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">идентификации ITMO ID</text>
+<rect x="38" y="404" width="297.271484375" height="26.6" fill="white"/>
+<text x="43" y="425.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">I1. Поисковый запрос студента</text>
+<rect x="38" y="454" width="399.390625" height="26.6" fill="white"/>
+<text x="43" y="475.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">I2. Опубликованные материалы и каталог</text>
+<rect x="613" y="267" width="249.72265625" height="26.6" fill="white"/>
+<text x="618" y="288.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">Подтверждённый студент</text>
+<rect x="933" y="399" width="440.943359375" height="26.6" fill="white"/>
+<text x="938" y="420.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">Выбранный материал и данные пользователя</text>
+<rect x="1283" y="577" width="378.521484375" height="26.6" fill="white"/>
+<text x="1288" y="598.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">Материал с подтверждённым доступом</text>
+<rect x="1403" y="954" width="155.435546875" height="26.6" fill="white"/>
+<text x="1408" y="975.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">Причина отказа</text>
+<rect x="998" y="1016" width="202.61328125" height="26.6" fill="white"/>
+<text x="1003" y="1037.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">Материал не найден</text>
+<rect x="1663" y="724" width="292.02734375" height="26.6" fill="white"/>
+<text x="1668" y="745.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">O1. Файл учебного материала</text>
+<rect x="1663" y="799" width="385.73828125" height="26.6" fill="white"/>
+<text x="1668" y="820.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">O2. Запись о просмотре или скачивании</text>
+<rect x="1993" y="894" width="130.552734375" height="75.80000000000001" fill="white"/>
+<text x="1998" y="915.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">O3. Ответ об</text>
+<text x="1998" y="939.6" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">отказе или</text>
+<text x="1998" y="964.2" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">отсутствии</text>
+<text x="48" y="1175.0" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#000000" text-anchor="start">M1. Студент | M2. Электронная библиотека | M3. ITMO ID, ИСУ</text>
+<rect x="398.0" y="357" width="61.89257812500001" height="22.91" fill="white"/>
+<text x="403.0" y="375.0" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#000000" text-anchor="start">M1-M3</text>
+<rect x="748.0" y="537" width="60.95458984375001" height="22.91" fill="white"/>
+<text x="753.0" y="555.0" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#000000" text-anchor="start">M1,M2</text>
+<rect x="1098.0" y="717" width="60.95458984375001" height="22.91" fill="white"/>
+<text x="1103.0" y="735.0" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#000000" text-anchor="start">M2,M3</text>
+<rect x="1448.0" y="897" width="32.61572265625" height="22.91" fill="white"/>
+<text x="1453.0" y="915.0" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#000000" text-anchor="start">M2</text>
+<rect x="1798.0" y="1077" width="32.61572265625" height="22.91" fill="white"/>
+<text x="1803.0" y="1095.0" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#000000" text-anchor="start">M2</text>
+</svg>

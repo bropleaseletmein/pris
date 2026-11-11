@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2190" height="1052" viewBox="0 0 2190 1052">
+<defs><marker id="arrow" viewBox="0 0 12 10" refX="11" refY="5" markerWidth="9" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 12 5 L 0 10 z" fill="#000000"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<rect x="695" y="260" width="800" height="480" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+<polyline points="20,310 695,310" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="20,380 695,380" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="20,450 695,450" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="20,520 695,520" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="20,590 695,590" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="20,660 695,660" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1495,300 2170,300" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1495,360 2170,360" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1495,420 2170,420" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1495,480 2170,480" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1495,540 2170,540" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1495,600 2170,600" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1495,660 2170,660" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="435,160 435,180 765,180 765,260" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="875,160 875,200 965,200 965,260" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1315,160 1315,220 1165,220 1165,260" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1755,160 1755,240 1385,240 1385,260" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="435,950 435,870 775,870 775,740" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="875,950 875,850 975,850 975,740" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1315,950 1315,830 1185,830 1185,740" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<polyline points="1755,950 1755,810 1405,810 1405,740" fill="none" stroke="#000000" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="1095.0" y="471.72" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#000000" text-anchor="middle">Обеспечить студентов и преподавателей</text>
+<text x="1095.0" y="501.24" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#000000" text-anchor="middle">учебно-методическими материалами кафедры с</text>
+<text x="1095.0" y="530.76" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#000000" text-anchor="middle">использованием электронной библиотеки</text>
+<text x="1481" y="728.0" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#000000" text-anchor="end">0</text>
+<rect x="48" y="255" width="312.88671875" height="26.6" fill="white"/>
+<text x="53" y="276.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">I1. Учебный файл и метаданные</text>
+<rect x="48" y="325" width="263.3359375" height="26.6" fill="white"/>
+<text x="53" y="346.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">I2. Запросы пользователей</text>
+<rect x="48" y="395" width="487.037109375" height="26.6" fill="white"/>
+<text x="53" y="416.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">I3. Данные дисциплин, групп и сотрудников из ИСУ</text>
+<rect x="48" y="465" width="368.248046875" height="26.6" fill="white"/>
+<text x="53" y="486.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">I4. Данные идентификации из ITMO ID</text>
+<rect x="48" y="535" width="399.107421875" height="26.6" fill="white"/>
+<text x="53" y="556.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">I5. Экземпляры книг, в т.ч. возвращённые</text>
+<rect x="48" y="605" width="329.4296875" height="26.6" fill="white"/>
+<text x="53" y="626.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">I6. Параметры настройки системы</text>
+<rect x="1563" y="253" width="349.576171875" height="26.6" fill="white"/>
+<text x="1568" y="274.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">O1. Учебный файл / ответ на запрос</text>
+<rect x="1563" y="313" width="301.685546875" height="26.6" fill="white"/>
+<text x="1568" y="334.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">O2. Выданные бумажные книги</text>
+<rect x="1563" y="373" width="336.75390625" height="26.6" fill="white"/>
+<text x="1568" y="394.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">O3. Сведения о выдаче и возврате</text>
+<rect x="1563" y="433" width="286.646484375" height="26.6" fill="white"/>
+<text x="1568" y="454.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">O4. Отчёт об обеспеченности</text>
+<rect x="1563" y="493" width="297.916015625" height="26.6" fill="white"/>
+<text x="1568" y="514.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">O5. Статистика использования</text>
+<rect x="1563" y="553" width="320.171875" height="26.6" fill="white"/>
+<text x="1568" y="574.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">O6. Уведомления и напоминания</text>
+<rect x="1563" y="613" width="293.6484375" height="26.6" fill="white"/>
+<text x="1568" y="634.0" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#000000" text-anchor="start">O7. Журналы работы системы</text>
+<text x="435.0" y="41.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">C1. Регламенты кафедры и</text>
+<text x="435.0" y="66.83" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">публикации</text>
+<text x="875.0" y="41.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">C2. РПД и требования к</text>
+<text x="875.0" y="66.83" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">обеспеченности</text>
+<text x="1315.0" y="41.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">C3. Правила доступа, авторские</text>
+<text x="1315.0" y="66.83" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">права и 152-ФЗ</text>
+<text x="1755.0" y="41.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">C4. Правила выдачи и сроки</text>
+<text x="1755.0" y="66.83" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">возврата</text>
+<text x="435.0" y="1001.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">M1. Преподаватель и студент</text>
+<text x="875.0" y="1001.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">M2. Библиотекарь, заведующий и</text>
+<text x="875.0" y="1026.83" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">администратор</text>
+<text x="1315.0" y="1001.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">M3. Электронная библиотека</text>
+<text x="1315.0" y="1026.83" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">кафедры</text>
+<text x="1755.0" y="1001.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#000000" text-anchor="middle">M4. ITMO ID и ИСУ</text>
+</svg>
